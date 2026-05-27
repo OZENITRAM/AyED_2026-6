@@ -25,7 +25,7 @@ namespace ConsoleApplication7
             while (contador <= B)
             {
                 resultado = resultado + A;
-                contador++; ;
+                contador++;
             }
 
             Console.WriteLine("resultado: " + resultado);
